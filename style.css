@@ -1,0 +1,12 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+button:hover {
+    background: red;
+}
+
+select:hover {
+    background: orange;
+}
